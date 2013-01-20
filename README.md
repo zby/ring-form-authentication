@@ -1,4 +1,3 @@
-FIXME
 # ring-form-authentication
 
 A Clojure library designed to rapid development/scaffolding of form based authentication.
@@ -19,6 +18,6 @@ This is very EXPERIMENTAL - it is my first code in Clojure.
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Zbigniew Łukasiak zzbbyy@gmail.com
 
 Distributed under the Eclipse Public License, the same as Clojure.
